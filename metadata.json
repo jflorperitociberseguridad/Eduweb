@@ -1,0 +1,8 @@
+{
+  "name": "EduCloud LMS",
+  "description": "A comprehensive Learning Management System with AI integration, video calls, and project management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
